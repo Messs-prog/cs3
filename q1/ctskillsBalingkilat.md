@@ -1,5 +1,5 @@
-## Section: 9-Balingkilat
 ## C#/name: #28 Ocampo, #29 Panahon, #30 Soriano
+## Section: 9-Balingkilat
 ## Date: 08/13/2026
 
 ANNEX B :
