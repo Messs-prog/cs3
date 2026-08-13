@@ -1,6 +1,6 @@
-# Section: 9-Balingkilat
-# C#/name: #28 Ocampo, #29 Panahon, #30 Soriano
-# Date: 08/13/2026
+## Section: 9-Balingkilat
+## C#/name: #28 Ocampo, #29 Panahon, #30 Soriano
+## Date: 08/13/2026
 
 ANNEX B :
 The Big Problem :
