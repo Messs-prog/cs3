@@ -1,3 +1,7 @@
+# Section: 9-Balingkilat
+# C#/name: #28 Ocampo, #29 Panahon, #30 Soriano
+# Date: 08/13/2026
+
 ANNEX B :
 The Big Problem :
 The new vending machine that was installed is inefficient and has a lot of defects. It sometimes give the wrong change, doesn't work properly when multiple students use it, gives the wrong item and can't track inventory properly.
