@@ -1,0 +1,8 @@
+mbtc = Bank("Metrobank")
+mbtc.openAccount()
+mbtc.openAccount()
+mbtc.showAccounts()
+mbtc.deposit()
+mbtc.deposit()
+mbtc.addInterest()
+mbtc.closeAccount()
