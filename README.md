@@ -10,4 +10,4 @@
   - https://github.com/Messs-prog/cs3/blob/main/q1/sg5_a1_Balingkilat_Panahon.py
   - https://github.com/Messs-prog/cs3/blob/main/q1/sg6_Balingkilat_Panahon.py
   - https://github.com/Messs-prog/cs3/blob/main/q1/sg7_BALINGKILAT_PANAHON.py
-  
+  - [fa1](q2/fa1_balingkilat_panahon.py)
